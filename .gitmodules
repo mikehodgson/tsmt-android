@@ -1,0 +1,4 @@
+[submodule "app/src/main/assets/tsmt"]
+	path = app/src/main/assets/tsmt
+	url = git@github.com:mikehodgson/tsmt.git
+	branch = AndroidVersion
